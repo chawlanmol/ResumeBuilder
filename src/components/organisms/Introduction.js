@@ -11,7 +11,7 @@ import LabelValue from "../molecules/LabelValue";
 import IconValue from "../molecules/IconValue";
 
 const EmployeeName = styled.h1`
-  color: #007bff;
+  color: #000000;
   margin: 0;
   font-weight: 500;
 `;
@@ -28,7 +28,7 @@ const InfoDiv = styled.div`
 `;
 
 const Role = styled.div`
-  color: #17a2b8;
+  color: #000000;
   font-size: 18px;
   font-weight: bold;
   margin-top: 7px !important;
@@ -50,18 +50,18 @@ export default function Introduction({ personalDetails }) {
       <Intro>
         <InfoDiv>
           <Role>{personalDetails.role}</Role>
-          <LabelValue label={personalDetails.experience[0].type} value={personalDetails.experience[0].years} />
-          <LabelValue label={personalDetails.experience[1].type} value={personalDetails.experience[1].years} />
+          {/* <LabelValue label={personalDetails.experience[0].type} value={personalDetails.experience[0].years} /> */}
+          {/* <LabelValue label={personalDetails.experience[1].type} value={personalDetails.experience[1].years} /> */}
         </InfoDiv>
 
         <ContactDiv>
           <IconValue Icon={CallIcon} value={personalDetails.mobile} />
           <IconValue Icon={MailIcon} value={personalDetails.email} />
-          <IconValue Icon={LocationOnIcon} value={personalDetails.location} />
+          {/* <IconValue Icon={LocationOnIcon} value={personalDetails.location} /> */}
         </ContactDiv>
       </Intro>
 
-      <SocialBar linkedin={personalDetails.linkedin} github={personalDetails.github} />
+      <SocialBar linkedin={personalDetails.linkedin} github={personalDetails.github} twitter={personalDetails.twitter}/>
     </>
   );
 }

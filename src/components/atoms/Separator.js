@@ -3,8 +3,8 @@ import styled from "styled-components";
 export default styled.div`
   width: 80%;
   margin: 18px auto 18px auto;
-  height: 3px;
-  background-color: brown;
+  height: 2px;
+  background-color: #000000;
   position: relative;
 
   &::before {

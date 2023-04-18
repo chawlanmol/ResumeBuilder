@@ -4,7 +4,6 @@ import styled from "styled-components";
 import Separator from "../atoms/Separator";
 import ShortDescription from "../molecules/ShortDescription";
 import ListDescription from "../molecules/ListDescription";
-import RatedDescription from "../organisms/RatedDescription";
 import NonRatedDescription from "../organisms/NonRatedDescription";
 import Education from "../organisms/Education";
 import Introduction from "../organisms/Introduction";
@@ -15,7 +14,6 @@ import { MdVpnKey } from "react-icons/md";
 import { MdVerifiedUser } from "react-icons/md";
 
 import { MdPermIdentity } from "react-icons/md";
-import { AiOutlineAim } from "react-icons/ai";
 import { BsBook } from "react-icons/bs";
 import { GrStatusGood } from "react-icons/gr";
 import { IoGitBranch } from "react-icons/io5";
@@ -26,15 +24,15 @@ const GridContainer = styled.div`
   padding: 50px;
   width: 1140px;
   margin: auto;
-  background-color: white;
+  background-color: #f2f1f0;
   display: grid;
   grid-template-columns: 66% 1fr 33%;
 `;
 
 const Divider = styled.div`
   height: 100%;
-  max-width: 3px;
-  background-color: #007bff;
+  max-width: 2px;
+  background-color: #000000;
 `;
 
 const GridColumn = styled.div`
@@ -60,14 +58,14 @@ export default function ResumeTemplate({ data }) {
 
       <GridColumn styles={{ "margin-left": "10px" }}>
         <ShortDescription title={data.summary.title} Icon={MdPermIdentity} description={data.summary.description} />
+        {/* <Separator />
+        <ShortDescription title={data.career.title} Icon={AiOutlineAim} description={data.career.description} /> */}
         <Separator />
-        <ShortDescription title={data.career.title} Icon={AiOutlineAim} description={data.career.description} />
-        <Separator />
-        <RatedDescription title={data.skills.title} Icon={BsBook} description={data.skills.description} />
-        <Separator />
-        <NonRatedDescription title={data.expertise.title} Icon={GrStatusGood} description={data.expertise.description} />
+        <NonRatedDescription title={data.skillset.title} Icon={BsBook} description={data.skillset.description} />
         <Separator />
         <NonRatedDescription title={data.methodology.title} Icon={IoGitBranch} description={data.methodology.description} />
+        <Separator />
+        <NonRatedDescription title={data.expertise.title} Icon={GrStatusGood} description={data.expertise.description} />
         <Separator />
         <NonRatedDescription title={data.tools.title} Icon={MdBuild} description={data.tools.description} />
         <Separator />

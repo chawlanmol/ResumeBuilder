@@ -88,9 +88,13 @@
       { "name": "RestAssured", "rating": 3 }
     ]
   },
+  "skillset": {
+    "title": "Core Skills",
+    "description": [".Net", "C#", "Java", "SQL", "MVC", "RestAPI", "JavaScript"]
+  },
   "expertise": {
     "title": "Areas of Expertise",
-    "description": ["MySQL", "SubVersion", "Git", "Eclipse", "Jira", "Maven", "Appium", "JMeter", "UFT"]
+    "description": ["MySQL", "Hibernate", "Git", "Eclipse", "Jira", "Maven", "Appium", "JMeter", "UFT"]
   },
   "methodology": {
     "title": "Methodology / Approach",

@@ -1,119 +1,159 @@
 {
   "personal_details": {
-    "name": "Jane Doe",
-    "role": "Full Stack Developer",
-    "mobile": "+91 9876543210",
-    "email": "janedoe@gmail.com",
-    "location": "Bengaluru",
+    "name": "Anmol Chawla",
+    "role": "Software Developer Engineer",
+    "mobile": "+91 8619297007",
+    "email": "chawlanmol@gmail.com",
+    "location": "Banglore",
     "experience": [
-      { "type": "Full Stack Experience on MERN", "years": "4 years" },
-      { "type": "Total Experience", "years": "6 years" }
+      {
+        "type": "Total Experience",
+        "years": "4 years"
+      }
     ],
-    "linkedin": "jane-doe-11",
-    "github": "jane_doe_test_85"
+    "linkedin": "anmol-chawla-2b4802101"
+
   },
   "summary": {
     "title": "About me",
-    "description": "I have been working with web development since 2010, the period during which I have worked in different environments, from big consultancy companies to start-ups. I am a self-motivated and self-taught professional who likes to solve problems"
-  },
-  "career": {
-    "title": "Career Objective",
-    "description": "Eager to expand my skill set through external trainings to help boost all major front desk KPIs. Hoping to leverage organizational skills to help ABC Corp introduce time-saving schemes for all executives."
+    "description": "Serving as Software Engineer for 7+ years, predominantly into backend development but also experienced in UI development and DB management. Ability to project manage and provide regular updates about projects in language the client can understand. Currently working in an IoT Application(HVAC System) with various sensors as data sources."
   },
   "companyDetails": {
     "title": "Professional Experience",
     "companyList": [
       {
-        "name": "Dummy Corporation 1",
-        "role": "Senior Software Developer",
-        "years": "Jan 2018 - present",
-        "expYears": "2.5 years",
+        "name": "Trane Technologies",
+        "role": "Senior Software Engineer",
+        "years": "April 2020 - present",
+        "expYears": "2 years",
         "description": [
-          "Use my extensive experience with front end development to <u>define the structure and components</u> for the project, making sure they are reusable",
-          "Keep the code quality high reviewing code from other developers and suggesting improvements",
-          "Interact with the designer to suggest changes and to make sure the view he has about the design is translated into actual functionality"
+          "Part of the IoT(HVAC System) team responsible for design and working in multiple components",
+          "Recently been member of Centre Of Excellence team",
+          "Leading a team of 3 members for building a new features",
+          "Have implemented numerous crucial design changes algorithmically",
+          "Took ownership for mentoring Junior developers, reviewing code from other developers, and suggesting improvements if any",
+          "Implemented solutions for 50+ production bugs"
         ]
       },
       {
-        "name": "Dummy Corporation 2",
-        "role": "Software Developer",
-        "years": "Jun 2015 - Dec 2017",
-        "expYears": "2.5 years",
+        "name": "Red Black Tree",
+        "role": "Software Engineer",
+        "years": "Dec 2017 - March 2020",
+        "expYears": "2 years 5 months",
         "description": [
-          "Develop web applications based on Sharepoint, Drupal 8 and Episerver",
-          "Lead a team of <strong>10 front end developers</strong>, giving support to the client's multi-cultural team, providing feedback, clarifying requirements and helping with technical questions",
-          "Keep the Project Manager and the IT Leads updated on the overall progress of the projects and manage the tasks distributed to the team",
-          "Keep the code and the features implemented by the other developers in accordance to the requirements"
+          "Worked as an contract employee for Trane Technologies",
+          "Member of Tools team which takes care of internal tools development",
+          "Worked on some of the new tools development and demonstrating the working of a product to the top level managements"
         ]
       },
       {
-        "name": "Dummy Corporation 3",
-        "role": "Trainee Developer",
-        "years": "Aug 2011 - May 2015",
-        "expYears": "1 years",
+        "name": "DevelopScript LLC",
+        "role": "Senior Ruby On Rails Developer",
+        "years": "Dec 2015 - Dec 2017",
+        "expYears": "2 years 1 month",
         "description": [
-          "Design easy user interfaces and great user experiences for the digital platforms of small companies",
-          "Wordpress development, including themes creation or customization, custom plugins development and training",
-          "E-commerce maintenance <i>with Fastcommerce</i>, a Brazilian e-commerce platform",
-          "E-commerce development with Magento, customizing preexisting themes ",
-          "Integrate external services such as payment services, delivery, etc into Magento solutions",
-          "VPS configuration and optimization (Apache & Nginx)"
+          "Worked as an full-stack individual contributor for 4+ web-applications and team member for 3+ applications, shared by Auction Products(2), EKart(2), Job Portal(1)",
+          "Integrally part of design, development and maintenance of the application and database",
+          "Integrated different Payment API like Assembly, Zipmark payment for the transaction"
+        ]
+      },
+      {
+        "name": "IgniteMindz",
+        "role": "Project Associate",
+        "years": "April 2015 - Dec 2015",
+        "expYears": "9 months",
+        "description": [
+          "CatalystK( CRM ) CRM for Business, Procurements, Sales and Distribution, Products, Finances, Profiles, Organizations",
+          "Written clear and reusable coding and take ownership for the CRM modules and demonstrating the working of a product to the multiple clients",
+          "Written BDD Test cases for all the developed modules"
         ]
       }
     ]
   },
   "key_projects": {
-    "title": "Key Projects / Involvements",
+    "title": "Key Projects / Achievements",
     "description": [
-      "Prevented millions of dollars in state sales tax undercharges by initiating tests that revealed a bug in a new release of shopping cart software.",
-      "Isolated previously undiscovered flaw in price checking tool resulting in more competitive pricing and a 20 percent increase in revenue.",
-      "Implemented automated testing tools spawning more diligent levels of regression testing, negative testing, error/bug retests and usability."
+      "Proposed and implemented new design changes for a feature which optimized resource utilization which increase the performance of an individual transaction",
+      "Won DevelopScripts hackathons '16' for implementing solutions for crucial problem statements",
+      "Developed a multi-tier microservices application as individual contributor"
     ]
   },
   "certificates": {
     "title": "Certificates and Awards",
     "description": [
-      "<strong>React</strong> and redux - A complete guide 2020 from Udemy",
-      "Agile and Scrum Master Certificate from Udacity",
-      "Best performer award for consistently exceeding the performance",
-      "Certificate of exceptional bug finder by XYZ client",
-      "Recorgnition zero defect delivery"
+      "Path breaker award for consistently exceeding the performance for the year 2021",
+      "Path breaker award for providing optimized solution for a crucial bug",
+      "Spot awards for multitasking and out-of-box thinking",
+      "DataStructure and Algorithms in Zero To Mastery Academy"
     ]
   },
-  "skills": {
-    "title": "Technical Skills",
+  "skillset": {
+    "title": "Core Skills",
     "description": [
-      { "name": "GoLang", "rating": 4 },
-      { "name": "Deno", "rating": 3 },
-      { "name": "React", "rating": 3 },
-      { "name": "JavaScript", "rating": 4 },
-      { "name": "CSS", "rating": 3 },
-      { "name": "HTML5", "rating": 4 }
+      "Java",
+      "Spring Boot",
+      "Ruby on Rails",
+      "Data DataStructure",
+      "Algorithm",
+      "HTML",
+      "CSS",
+      "Bootstrap",
+      "JavaScript",
+      "JQuery",
+      "React",
+      "RDBMS",
+      "REST-API",
+      "Nginx",
+      "AWS"
     ]
-  },
-  "expertise": {
-    "title": "Areas of Expertise",
-    "description": ["Algorithms", "Data Structures", "Redux", "SQL", "jQuery", "Progressive Web Apps"]
   },
   "methodology": {
     "title": "Methodology / Approach",
     "description": [
-      "Component based architecture", "Agile methodology", "Design Patterns", "Test Driven Development", "Model View Controller",  "RESTful architecture"
+      "Component based architecture",
+      "Agile methodology",
+      "Design Patterns",
+      "Test Driven Development",
+      "Model View Controller",
+      "RESTful Architecture"
+    ]
+  },
+  "expertise": {
+    "title": "Soft Skills",
+    "description": [
+      "Time management",
+      "Analytical Thinking",
+      "Problem Solving",
+      "Decision making",
+      "Teamwork",
+      "Leadership",
+      "Communication",
+      "Troubleshooting"
     ]
   },
   "tools": {
     "title": "Tools",
-    "description": ["Git", "VS Code", "Jira", "Webpack", "Eclipse"]
+    "description": [
+      "Git",
+      "GitHub",
+      "VS Code",
+      "Eclipse",
+      "Perforce",
+      "POSTMAN",
+      "Payment API",
+      "Twilio",
+      "SendGrid"
+    ]
   },
   "education": {
     "title": "Education",
     "description": [
       {
-        "institution": "XIV, University",
+        "institution": "Sakthi Mariamman Engineering College",
         "years": "2010 - 2014",
-        "grade": "8.3",
-        "degree": "B.Tech",
-        "specialization": "Masters in Cloud Technology"
+        "grade": "",
+        "degree": "B.E",
+        "specialization": "Electronics and Communication Engineering"
       }
     ]
   }
