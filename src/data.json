@@ -16,16 +16,16 @@
   },
   "summary": {
     "title": "About me",
-    "description": "Serving as Software Engineer for 7+ years, predominantly into backend development but also experienced in UI development and DB management. Ability to project manage and provide regular updates about projects in language the client can understand. Currently working in an IoT Application(HVAC System) with various sensors as data sources."
+    "description": "A self-motivated , creative and independent back end developer with 4+ years of professional experience in software analysis, design and development through efficient coding, feature optimization and relentless debugging. Highly motivated, detail-oriented with an ability to learn new frameworks and concepts quickly."
   },
   "companyDetails": {
     "title": "Professional Experience",
     "companyList": [
       {
-        "name": "Trane Technologies",
-        "role": "Senior Software Engineer",
-        "years": "April 2020 - present",
-        "expYears": "2 years",
+        "name": "PayPal",
+        "role": "Software Engineer II",
+        "years": "March 2021 - present",
+        "expYears": "2+ years",
         "description": [
           "Part of the IoT(HVAC System) team responsible for design and working in multiple components",
           "Recently been member of Centre Of Excellence team",
@@ -36,36 +36,26 @@
         ]
       },
       {
-        "name": "Red Black Tree",
+        "name": "OYO Rooms",
         "role": "Software Engineer",
-        "years": "Dec 2017 - March 2020",
-        "expYears": "2 years 5 months",
+        "years": "June 2019 - Nov 2020",
+        "expYears": "1 year 5 months",
         "description": [
-          "Worked as an contract employee for Trane Technologies",
-          "Member of Tools team which takes care of internal tools development",
-          "Worked on some of the new tools development and demonstrating the working of a product to the top level managements"
+          "Design and development efforts for Ceil Discount feature to cap the overall discount. Worked on building high throughput asynchronous write service",
+          "Design and development efforts for migration of existing coupon discounting system from a ROR based monolith to Java based micro-service with improved code and database design in order to achieve high performance in form of improved latency and stability of the system at a high\nrate of throughput (JAVA/RUBY)",
+          "End to end integration of A/B service with discounting platform which resulted in significant increase of booking conversion (RUBY)",
+          "Developed partial discounting capability in discounting platform for use cases such as micro stay bookings (RUBY)",
+          "Build a panel for coupon pre-application to automate the manual process which saved engineering bandwidth"
         ]
       },
       {
-        "name": "DevelopScript LLC",
-        "role": "Senior Ruby On Rails Developer",
-        "years": "Dec 2015 - Dec 2017",
-        "expYears": "2 years 1 month",
+        "name": "OYO Rooms",
+        "role": "Software Development Intern",
+        "years": "Jan 2019 - Nov 2020",
+        "expYears": "6 months",
         "description": [
-          "Worked as an full-stack individual contributor for 4+ web-applications and team member for 3+ applications, shared by Auction Products(2), EKart(2), Job Portal(1)",
-          "Integrally part of design, development and maintenance of the application and database",
-          "Integrated different Payment API like Assembly, Zipmark payment for the transaction"
-        ]
-      },
-      {
-        "name": "IgniteMindz",
-        "role": "Project Associate",
-        "years": "April 2015 - Dec 2015",
-        "expYears": "9 months",
-        "description": [
-          "CatalystK( CRM ) CRM for Business, Procurements, Sales and Distribution, Products, Finances, Profiles, Organizations",
-          "Written clear and reusable coding and take ownership for the CRM modules and demonstrating the working of a product to the multiple clients",
-          "Written BDD Test cases for all the developed modules"
+          "Built and deployed infrastructure for segmentation feature for discounting platform in order to optimise coupon discounting for larger set of users",
+          "Developed and deployed front end panel for internal use cases such as coupon creation, coupon edit, pre applied coupons listing using React and Redux front end technologies"
         ]
       }
     ]
@@ -93,17 +83,12 @@
       "Java",
       "Spring Boot",
       "Ruby on Rails",
-      "Data DataStructure",
+      "Data Structure",
       "Algorithm",
-      "HTML",
-      "CSS",
-      "Bootstrap",
-      "JavaScript",
-      "JQuery",
-      "React",
       "RDBMS",
-      "REST-API",
-      "Nginx",
+      "Rest-API",
+      "Kafka",
+      "MySql",
       "AWS"
     ]
   },
@@ -136,24 +121,26 @@
     "description": [
       "Git",
       "GitHub",
-      "VS Code",
-      "Eclipse",
-      "Perforce",
-      "POSTMAN",
-      "Payment API",
-      "Twilio",
-      "SendGrid"
+      "Intellij",
+      "Postman",
+      "Jira"
     ]
   },
   "education": {
     "title": "Education",
     "description": [
       {
-        "institution": "Sakthi Mariamman Engineering College",
-        "years": "2010 - 2014",
-        "grade": "",
-        "degree": "B.E",
+        "institution": "Indian Institute of Information Technology Allahabad",
+        "years": "2015 - 2019",
+        "grade": "8.6 CGPA",
+        "degree": "B.TECH",
         "specialization": "Electronics and Communication Engineering"
+      },
+      {
+        "institution": "Good Shepherd Public School",
+        "years": "2014",
+        "grade": "94.60 %",
+        "specialization": "SENIOR SECONDARY EXAMINATION CLASS XII"
       }
     ]
   }

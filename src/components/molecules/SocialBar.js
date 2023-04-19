@@ -28,6 +28,16 @@ export default function SocialBar({ linkedin, github, twitter }) {
           </a>
         </span>
       </div>
+      <div className="github">
+        <IconHolder styles={{ "vertical-align": "middle" }}>
+          <FaGithub />
+        </IconHolder>
+        <span>
+          <a target="_blank" rel="noopener noreferrer" href={"http://github.com/" + github}>
+            {github}
+          </a>
+        </span>
+      </div>
     </SocialDiv>
   );
 }

@@ -51,9 +51,7 @@ export default function ResumeTemplate({ data }) {
         <Separator />
         <ListDescription title={data.key_projects.title} Icon={MdVpnKey} description={data.key_projects.description} />
         <Separator />
-        <ListDescription title={data.certificates.title} Icon={MdVerifiedUser} description={data.certificates.description} />
       </GridColumn>
-
       <Divider />
 
       <GridColumn styles={{ "margin-left": "10px" }}>
