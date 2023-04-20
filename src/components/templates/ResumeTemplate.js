@@ -63,8 +63,6 @@ export default function ResumeTemplate({ data }) {
         <Separator />
         <NonRatedDescription title={data.methodology.title} Icon={IoGitBranch} description={data.methodology.description} />
         <Separator />
-        <NonRatedDescription title={data.expertise.title} Icon={GrStatusGood} description={data.expertise.description} />
-        <Separator />
         <NonRatedDescription title={data.tools.title} Icon={MdBuild} description={data.tools.description} />
         <Separator />
         <Education title={data.education.title} Icon={FaUniversity} description={data.education.description} />

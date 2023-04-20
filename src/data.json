@@ -11,7 +11,9 @@
         "years": "4 years"
       }
     ],
-    "linkedin": "anmol-chawla-2b4802101"
+    "linkedin": "anmol-chawla-2b4802101",
+    "githiub": "onemole32"
+
 
   },
   "summary": {
@@ -27,9 +29,9 @@
         "years": "March 2021 - present",
         "expYears": "2+ years",
         "description": [
-          "Part of the IoT(HVAC System) team responsible for design and working in multiple components",
-          "Recently been member of Centre Of Excellence team",
-          "Leading a team of 3 members for building a new features",
+          "Developed and Designed Open Banking Functionality in Loan Underwriting, which enables merchants to share financial information with consent. Which can be used at the time of loan underwriting for the risk assessment associated with loan lending",
+          "Re-architecture and migration of Loan application withdraw functionality, Which enables merchant to withdraw loan application on demand",
+          "Analysis and implementation of automated KYB KYC feature for Merchants, which allowed real time KYB for business and real time KYC for merchant applying for loan",
           "Have implemented numerous crucial design changes algorithmically",
           "Took ownership for mentoring Junior developers, reviewing code from other developers, and suggesting improvements if any",
           "Implemented solutions for 50+ production bugs"
