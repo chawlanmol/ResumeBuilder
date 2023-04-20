@@ -65,9 +65,9 @@
   "key_projects": {
     "title": "Key Projects / Achievements",
     "description": [
-      "Proposed and implemented new design changes for a feature which optimized resource utilization which increase the performance of an individual transaction",
-      "Won DevelopScripts hackathons '16' for implementing solutions for crucial problem statements",
-      "Developed a multi-tier microservices application as individual contributor"
+      "Proposed and implemented new design changes for application withdraw functionality",
+      "Received multiple bravos for collaboration, innovation across different initiatives",
+      "Idea submission for paypal risk hackathon for loan Requester/Recommendation Engine"
     ]
   },
   "certificates": {
@@ -87,11 +87,9 @@
       "Data Structure",
       "Algorithm",
       "Postgresql",
-      "Oracle",
-      "Mongo DB",
-      "Ruby on Rails",
-      "RESTful API",
       "Kafka",
+      "Ruby",
+      "RESTful API",
       "MySql",
       "AWS"
     ]
