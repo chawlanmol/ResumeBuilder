@@ -1,0 +1,152 @@
+{
+  "personal_details": {
+    "name": "Anmol Chawla",
+    "role": "Software Developer Engineer",
+    "mobile": "+91 8619297007",
+    "email": "chawlanmol@gmail.com",
+    "location": "Banglore",
+    "experience": [
+      {
+        "type": "Total Experience",
+        "years": "4 years"
+      }
+    ],
+    "linkedin": "anmol-chawla-2b4802101",
+    "github": "onemole32"
+
+
+  },
+  "summary": {
+    "title": "About me",
+    "description": "A self-motivated , creative and independent back end developer with 4+ years of professional experience in software analysis, design and development through efficient coding, feature optimization and relentless debugging. Highly motivated, detail-oriented with an ability to learn new frameworks and concepts quickly."
+  },
+  "companyDetails": {
+    "title": "Professional Experience",
+    "companyList": [
+      {
+        "name": "PayPal",
+        "role": "Software Engineer II",
+        "years": "March 2021 - present",
+        "expYears": "2+ years",
+        "description": [
+          "Requirement analysis, Design and Developed Open Banking Functionality in Loan Underwriting, which enables merchants to share financial information with consent. Which can be used at the time of loan underwriting for the risk assessment associated with loan lending",
+          "Re-architecture and migration of Loan application withdraw functionality, Which enables merchant to withdraw loan application on demand",
+          "Analysis and implementation of automated KYB KYC feature for Merchants, which allowed real time KYB for business and real time KYC for merchant applying for loan",
+          "Implemented unit test using mockito and Functional test for all task considering code coverage, SonarQube bugs. Also implemented solution for multiple production bugs",
+          "Design and integrated with external APIs for getting business and customer data from external services for feature's like open banking , automated KYB/KYC etc",
+          "Took ownership for mentoring Junior developers. Active involvement in code reviews and  design discussions"
+        ]
+      },
+      {
+        "name": "OYO Rooms",
+        "role": "Software Engineer",
+        "years": "June 2019 - Nov 2020",
+        "expYears": "1 year 5 months",
+        "description": [
+          "Design and development efforts for Ceil Discount feature to cap the overall discount. Worked on building high throughput asynchronous write service",
+          "Built and deployed infrastructure for segmentation feature for discounting platform in order to optimise coupon discounting for larger set of users",
+          "Design and development efforts for migration of existing coupon discounting system from a ROR based monolith to Java based micro-service with improved code and database design in order to achieve high performance in form of improved latency and stability of the system at a high\nrate of throughput (JAVA/RUBY)",
+          "End to end integration of A/B service with discounting platform which resulted in significant increase of booking conversion (RUBY)",
+          "Build a panel for coupon pre-application to automate the manual process which saved engineering bandwidth"
+        ]
+      },
+      {
+        "name": "OYO Rooms",
+        "role": "Software Development Intern",
+        "years": "Jan 2019 - Nov 2020",
+        "expYears": "6 months",
+        "description": [
+          "Developed partial discounting capability in discounting platform for use cases such as micro stay bookings (RUBY)",
+          "Developed and deployed front end panel for internal use cases such as coupon creation, coupon edit, pre applied coupons listing using React and Redux front end technologies"
+        ]
+      }
+    ]
+  },
+  "key_projects": {
+    "title": "Key Projects / Achievements",
+    "description": [
+      "Proposed and implemented new design changes for a feature which optimized resource utilization which increase the performance of an individual transaction",
+      "Won DevelopScripts hackathons '16' for implementing solutions for crucial problem statements",
+      "Developed a multi-tier microservices application as individual contributor"
+    ]
+  },
+  "certificates": {
+    "title": "Certificates and Awards",
+    "description": [
+      "Path breaker award for consistently exceeding the performance for the year 2021",
+      "Path breaker award for providing optimized solution for a crucial bug",
+      "Spot awards for multitasking and out-of-box thinking",
+      "DataStructure and Algorithms in Zero To Mastery Academy"
+    ]
+  },
+  "skillset": {
+    "title": "Core Skills",
+    "description": [
+      "Java",
+      "Spring Boot",
+      "Data Structure",
+      "Algorithm",
+      "Postgresql",
+      "Oracle",
+      "Mongo DB",
+      "Ruby on Rails",
+      "RESTful API",
+      "Kafka",
+      "MySql",
+      "AWS"
+    ]
+  },
+  "methodology": {
+    "title": "Methodology / Approach",
+    "description": [
+      "Microservice Architecture",
+      "Agile methodology",
+      "Test Driven Development",
+      "Design Patterns",
+      "RESTful Architecture"
+    ]
+  },
+  "expertise": {
+    "title": "Soft Skills",
+    "description": [
+      "Time management",
+      "Analytical Thinking",
+      "Problem Solving",
+      "Decision making",
+      "Teamwork",
+      "Leadership",
+      "Communication",
+      "Troubleshooting"
+    ]
+  },
+  "tools": {
+    "title": "Tools",
+    "description": [
+      "Git",
+      "GitHub",
+      "Intellij",
+      "Maven",
+      "Mockito",
+      "Postman",
+      "Jira"
+    ]
+  },
+  "education": {
+    "title": "Education",
+    "description": [
+      {
+        "institution": "Indian Institute of Information Technology Allahabad",
+        "years": "2015 - 2019",
+        "grade": "8.6 CGPA",
+        "degree": "B.TECH",
+        "specialization": "Electronics and Communication Engineering"
+      },
+      {
+        "institution": "Good Shepherd Public School",
+        "years": "2014",
+        "grade": "94.60 %",
+        "specialization": "SENIOR SECONDARY EXAMINATION CLASS XII"
+      }
+    ]
+  }
+}
