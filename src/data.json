@@ -12,7 +12,7 @@
       }
     ],
     "linkedin": "anmol-chawla-2b4802101",
-    "githiub": "onemole32"
+    "github": "onemole32"
 
 
   },
@@ -29,12 +29,12 @@
         "years": "March 2021 - present",
         "expYears": "2+ years",
         "description": [
-          "Developed and Designed Open Banking Functionality in Loan Underwriting, which enables merchants to share financial information with consent. Which can be used at the time of loan underwriting for the risk assessment associated with loan lending",
+          "Requirement analysis, Design and Developed Open Banking Functionality in Loan Underwriting, which enables merchants to share financial information with consent. Which can be used at the time of loan underwriting for the risk assessment associated with loan lending",
           "Re-architecture and migration of Loan application withdraw functionality, Which enables merchant to withdraw loan application on demand",
           "Analysis and implementation of automated KYB KYC feature for Merchants, which allowed real time KYB for business and real time KYC for merchant applying for loan",
-          "Have implemented numerous crucial design changes algorithmically",
-          "Took ownership for mentoring Junior developers, reviewing code from other developers, and suggesting improvements if any",
-          "Implemented solutions for 50+ production bugs"
+          "Implemented unit test using mockito and Functional test for all task considering code coverage, SonarQube bugs. Also implemented solution for multiple production bugs",
+          "Design and integrated with external APIs for getting business and customer data from external services for feature's like open banking , automated KYB/KYC etc",
+          "Took ownership for mentoring Junior developers. Active involvement in code reviews and  design discussions"
         ]
       },
       {
@@ -44,9 +44,9 @@
         "expYears": "1 year 5 months",
         "description": [
           "Design and development efforts for Ceil Discount feature to cap the overall discount. Worked on building high throughput asynchronous write service",
+          "Built and deployed infrastructure for segmentation feature for discounting platform in order to optimise coupon discounting for larger set of users",
           "Design and development efforts for migration of existing coupon discounting system from a ROR based monolith to Java based micro-service with improved code and database design in order to achieve high performance in form of improved latency and stability of the system at a high\nrate of throughput (JAVA/RUBY)",
           "End to end integration of A/B service with discounting platform which resulted in significant increase of booking conversion (RUBY)",
-          "Developed partial discounting capability in discounting platform for use cases such as micro stay bookings (RUBY)",
           "Build a panel for coupon pre-application to automate the manual process which saved engineering bandwidth"
         ]
       },
@@ -56,7 +56,7 @@
         "years": "Jan 2019 - Nov 2020",
         "expYears": "6 months",
         "description": [
-          "Built and deployed infrastructure for segmentation feature for discounting platform in order to optimise coupon discounting for larger set of users",
+          "Developed partial discounting capability in discounting platform for use cases such as micro stay bookings (RUBY)",
           "Developed and deployed front end panel for internal use cases such as coupon creation, coupon edit, pre applied coupons listing using React and Redux front end technologies"
         ]
       }
@@ -84,11 +84,13 @@
     "description": [
       "Java",
       "Spring Boot",
-      "Ruby on Rails",
       "Data Structure",
       "Algorithm",
-      "RDBMS",
-      "Rest-API",
+      "Postgresql",
+      "Oracle",
+      "Mongo DB",
+      "Ruby on Rails",
+      "RESTful API",
       "Kafka",
       "MySql",
       "AWS"
@@ -97,11 +99,10 @@
   "methodology": {
     "title": "Methodology / Approach",
     "description": [
-      "Component based architecture",
+      "Microservice Architecture",
       "Agile methodology",
-      "Design Patterns",
       "Test Driven Development",
-      "Model View Controller",
+      "Design Patterns",
       "RESTful Architecture"
     ]
   },
@@ -124,6 +125,8 @@
       "Git",
       "GitHub",
       "Intellij",
+      "Maven",
+      "Mockito",
       "Postman",
       "Jira"
     ]
