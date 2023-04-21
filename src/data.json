@@ -18,7 +18,7 @@
   },
   "summary": {
     "title": "About me",
-    "description": "A self-motivated , creative and independent back end developer with 4+ years of professional experience in software analysis, design and development through efficient coding, feature optimization and relentless debugging. Highly motivated, detail-oriented with an ability to learn new frameworks and concepts quickly."
+    "description": "With 4+ years of experience in software analysis, design, and development, I possess a strong passion for creating efficient and high-quality software that satisfies the needs of clients and end-users alike. My motivation, attention to detail, and aptitude for quickly learning new frameworks and concepts enable me to continuously develop my skills and stay current with the latest technologies. I'm dedicated to writing clean and maintainable code, which is crucial in delivering reliable and scalable software solutions"
   },
   "companyDetails": {
     "title": "Professional Experience",
@@ -27,13 +27,13 @@
         "name": "PayPal",
         "role": "Software Engineer II",
         "years": "March 2021 - present",
-        "expYears": "2+ years",
+        "expYears": "2 years",
         "description": [
           "Requirement analysis, Design and Developed Open Banking Functionality in Loan Underwriting, which enables merchants to share financial information with consent. Which can be used at the time of loan underwriting for the risk assessment associated with loan lending",
           "Re-architecture and migration of Loan application withdraw functionality, Which enables merchant to withdraw loan application on demand",
           "Analysis and implementation of automated KYB KYC feature for Merchants, which allowed real time KYB for business and real time KYC for merchant applying for loan",
           "Implemented unit test using mockito and Functional test for all task considering code coverage, SonarQube bugs. Also implemented solution for multiple production bugs",
-          "Design and integrated with external APIs for getting business and customer data from external services for feature's like open banking , automated KYB/KYC etc",
+          "Design and integrated with external APIs for getting business and customer data from external services for feature's like open banking, automated KYB/KYC etc",
           "Took ownership for mentoring Junior developers. Active involvement in code reviews and  design discussions"
         ]
       },
