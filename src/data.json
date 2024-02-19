@@ -18,7 +18,7 @@
   },
   "summary": {
     "title": "About me",
-    "description": "I am a software engineer with 4+ years of experience in analysis, design, and development. I am passionate about creating efficient and high-quality software that meets the needs of clients and end-users. I am motivated, detail-oriented, and able to quickly learn new frameworks and concepts. I am dedicated to writing clean and maintainable code, which is crucial in delivering reliable and scalable software solutions"
+    "description": "I am a software engineer with 4.5+ years of experience in analysis, design, and development. I am passionate about creating efficient and high-quality software that meets the needs of clients and end-users. I am motivated, detail-oriented, and able to quickly learn new frameworks and concepts. I am dedicated to writing clean and maintainable code, which is crucial in delivering reliable and scalable software solutions"
   },
   "companyDetails": {
     "title": "Professional Experience",
@@ -29,10 +29,10 @@
         "years": "March 2021 - present",
         "expYears": "2 years",
         "description": [
+          "Led the design and execution of end-to-end on-boarding of a new bureau, duns and Bradstreet (D&B) for the UK market, achieving $20,000 annual cost savings through internal gateway integration and eliminating third-party vendor fees. while proactive monitoring efforts are expected to yield a 50% improvement in service level agreements (SLAs) and time-to-market (TTM)",
           "Designed and developed open banking functionality in loan underwriting, enabling merchants to share financial information with consent. This information can be used at the time of loan underwriting for risk assessment associated with loan lending",
           "Re-architected and migrated loan application withdraw functionality, enabling merchants to withdraw loan applications on demand",
           "Implemented an automated KYB and KYC feature for merchants, which allowed for real-time KYB for businesses and real-time KYC for merchants applying for loans. This resulted in a significant reduction in the time and effort required to onboard new merchants, as well as a reduction in the risk of fraud",
-          "Designed and integrated with external APIs to get business and customer data from external services for features like open banking, automated KYB/KYC, etc. This improved the efficiency of data collection and processing, and reduced the risk of data breaches",
           "Implemented unit tests using Mockito to ensure code coverage and identify potential bugs. I also implemented functional tests to verify the functionality of the application. In addition, I identified and implemented solutions for multiple production bugs. My work helped to improve the quality of the software and reduce the number of defects",
           "Took ownership of mentoring junior developers by providing guidance and support on technical topics, as well as career development. Actively participated in code reviews and design discussions, providing valuable feedback and insights. This helped to improve the quality of the software and the skills of the junior developers"
         ]
@@ -53,7 +53,7 @@
       {
         "name": "OYO",
         "role": "Software Development Intern",
-        "years": "Jan 2019 - Nov 2020",
+        "years": "Jan 2019 - June 2019",
         "expYears": "6 months",
         "description": [
           "Developed partial discounting capability in discounting platform for use cases such as micro stay bookings (RUBY)",
